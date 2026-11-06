@@ -18,4 +18,3 @@ except ValueError as error:
     print("Помилка:", error)
 except AssertionError as error:
     print("Помилка:", error)
-
